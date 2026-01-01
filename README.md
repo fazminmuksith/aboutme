@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Fazmin Muksith 👋  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Fazmin Muksith  
 
 I’m a **Data Analyst & AI Solutions Builder** with hands-on experience in **Snowflake, Tableau, Power BI, SQL, and Cloud Analytics**.  
 I also run **FM Studio**, where I help businesses with **data-driven decision making, automation, dashboards, and digital solutions**.

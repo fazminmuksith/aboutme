@@ -18,11 +18,11 @@ I enjoy building **intelligent analytics systems**, **autonomous AI workflows**,
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** SQL, Python, R (Beginner)  
+- **Languages:** SQL, Python, R   
 - **Databases:** Snowflake  
 - **BI Tools:** Tableau, Power BI, AWS QuickSight  
 - **Cloud & Tools:** AWS, GitHub, Excel, Power Apps  
-- **AI & Automation:** GPT-based Agents, AutoGPT, Prompt Engineering  
+- **AI & Automation:** GPT-based Agents, AutoGPT, Prompt Engineering, QuickSight Gen AI  
 
 ---
 
